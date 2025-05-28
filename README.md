@@ -1,6 +1,6 @@
 # DDoS Termux Tool by Joocode
 
-## 🚨 **Alert** 🚨
+## Alert
 **WARNING:**  
 Please **do not** misuse this tool for any illegal or malicious purposes.  
 This script is for educational and testing purposes only.  
@@ -10,7 +10,7 @@ This script is for educational and testing purposes only.
 
 ---
 
-## 🙏 **Special Thanks To:**
+## Special Thanks To:
 
 - **God (Tuhan)** – For everything.
 - **Orang Tua (Support)** – For endless love and support.
@@ -28,7 +28,7 @@ This script is for educational and testing purposes only.
 
 ---
 
-## 📞 **Contact Me:**
+## Contact Me:
 
 - WhatsApp: [+6281362675697](https://wa.me/+6281362675697)
 - WhatsApp: [+6283141427943](https://wa.me/+6283141427943)
@@ -36,5 +36,14 @@ This script is for educational and testing purposes only.
 
 ---
 
-## ⚡ **Disclaimer**  
-By using this tool, you agree to take full responsibility for your actions. The creator is not liable for any damage caused by the misuse of this script. Use it responsibly.
+## Installation & Usage
+
+To install and run the DDoS Termux tool, follow these steps:
+
+1. pkg update
+2. pkg upgrade
+3. pkg install python
+4. pkg install git
+5. git clone 6. https://github.com/Joodev65/Tools-DDOS-Joocode.git
+7. cd Tools-DDOS-Joocode.git
+8. python hammer.py
